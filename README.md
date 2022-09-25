@@ -21,7 +21,7 @@ class Skills extends Developer {
   cloud          = ['Replit', 'AWS', 'Google Cloud', 'Hostinger', 'HostGator', 'DreamHost'];
   hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
   languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Go', 'Ruby', 'C++', 'C#', 'SQL'];
-  software       = ['Node', 'Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Microsoft Visual Studio', 'Sublime Text'];
+  software       = ['Node', 'Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Microsoft Visual Studio'];
 }
 
 ```
