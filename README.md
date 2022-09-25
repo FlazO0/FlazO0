@@ -30,6 +30,6 @@ class Skills extends Developer {
 
 <p align='center'>
   <a href="https://yngtech.repl.co/">
-    <img src=Logo YNG"/>
+    <img src=https://i.imgur.com/q2L7jkf.png"/>
   </a>
 </p>
