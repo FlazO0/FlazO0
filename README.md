@@ -1,4 +1,3 @@
-<hr>
 
 ```js
 
@@ -28,8 +27,16 @@ class Skills extends Developer {
 
 <hr>
 
-<p align='center'>
-  <a href="https://yngtech.repl.co/">
-    <img width="150px" src=https://i.imgur.com/q2L7jkf.png"/>
-  </a>
-</p>
+### Work Experiences
+
+[<img align="left" width="94px" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
+
+**Network Engineer** \
+[**YNG**](https://yngtech.repl.co/) • Full-time \
+Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`,\
+Projetos em destaque: [Infinity Linux](https://yngtech.repl.co/)
+
+<br/>
+<br/>
+
+<hr>
