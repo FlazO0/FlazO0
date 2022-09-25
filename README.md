@@ -1,16 +1,35 @@
-### Hi there 👋
+<hr>
 
-<!--
-**FlazO0/FlazO0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
 
-Here are some ideas to get you started:
+import Developer from 'Flaz0';
+import Hacker frpm 'Flaz0';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class AboutMe extends Developer {
+  age        = 16;
+  hacking    = true;
+  work       = false;
+  locality   = 'Brazil';
+  english    = 'Fluent';
+  name       = 'Flavio Luiz Lopes Arruda';
+  email      = 'Flavio.YNG@protonmail.com';
+}
+
+class Skills extends Developer {
+  systems        = ['Windows', 'Ubuntu', 'Kali', 'Arch'];
+  frameworks     = ['React', 'Angular', 'Bootstrap', 'Bulma'];
+  cloud          = ['Replit', 'AWS', 'Google Cloud', 'Hostinger', 'HostGator', 'DreamHost'];
+  hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
+  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Go', 'Ruby', 'C++', 'C#', 'SQL'];
+  software       = ['Node', 'Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Microsoft Visual Studio', 'Sublime Text'];
+}
+
+```
+
+<hr>
+
+<p align='center'>
+  <a href="https://yngtech.repl.co/">
+    <img src=Logo YNG"/>
+  </a>
+</p>
