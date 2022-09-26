@@ -29,7 +29,7 @@ class Skills extends Developer {
 
 <samp>
 
-[<img align="left" width="95x" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
+[<img align="left" width="100x" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
 
 **Systems Developer** \
 [**YNG**](https://yngtech.repl.co/) <!--• Full-time--> \
