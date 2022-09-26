@@ -31,10 +31,10 @@ class Skills extends Developer {
 
 [<img align="left" width="94px" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
 
-**Network Engineer** \
+**Systems Developer** \
 [**YNG**](https://yngtech.repl.co/) • Full-time \
-Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`,\
-Projetos em destaque: [Infinity Linux](https://yngtech.repl.co/)
+Linguagens & Tecnologias: `Python`, `C++`, `C#`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
+Projetos em destaque: [Infinity](https://infinity.yngtech.repl.co/), [Cloud](https://cloud.yngtech.repl.co/)
 
 <br/>
 <br/>
