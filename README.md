@@ -32,7 +32,7 @@ class Skills extends Developer {
 [<img align="left" width="94px" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
 
 **Systems Developer** \
-[**YNG**](https://yngtech.repl.co/) • Full-time \
+[**YNG**](https://yngtech.repl.co/) <!--• Full-time--> \
 Linguagens & Tecnologias: `Python`, `C++`, `C#`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
 Projetos em destaque: [Infinity](https://infinity.yngtech.repl.co/), [Cloud](https://cloud.yngtech.repl.co/)
 
