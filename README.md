@@ -29,6 +29,6 @@ class Skills extends Developer {
 
 **Systems Developer** \
 [**YNG**](https://yngtech.repl.co/) <!--• Full-time--> \
-Linguagens & Tecnologias: `Python`, `C++`, `C#`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
-Projetos em destaque: [Infinity](https://infinity.yngtech.repl.co/), [Cloud](https://cloud.yngtech.repl.co/)
+Languages ​​and Technologies: `Python`, `C++`, `C#`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
+Featured projects: [Infinity](https://infinity.yngtech.repl.co/), [Cloud](https://cloud.yngtech.repl.co/)
 <samp/>
