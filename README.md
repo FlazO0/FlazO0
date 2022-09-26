@@ -25,18 +25,14 @@ class Skills extends Developer {
 
 ```
 
-<hr>
+<h3> Work Experiences <h3/>
 
-### Work Experiences
+<samp>
 
-[<img align="left" width="94px" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
+[<img align="left" width="95x" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
 
 **Systems Developer** \
 [**YNG**](https://yngtech.repl.co/) <!--• Full-time--> \
 Linguagens & Tecnologias: `Python`, `C++`, `C#`, `TypeScript`, `JavaScript`, `HTML`, `CSS`\
 Projetos em destaque: [Infinity](https://infinity.yngtech.repl.co/), [Cloud](https://cloud.yngtech.repl.co/)
-
-<br/>
-<br/>
-
-<hr>
+<samp/>
