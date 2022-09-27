@@ -10,6 +10,7 @@ class AboutMe extends Developer {
   name       = 'Flavio Luiz Lopes Arruda';
   email      = 'Flavio.YNG@protonmail.com';
 }
+
 class Skills extends Developer {
   systems        = ['Windows', 'Ubuntu', 'Kali', 'Arch'];
   frameworks     = ['React', 'Angular', 'Bootstrap', 'Bulma'];
