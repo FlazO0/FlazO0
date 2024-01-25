@@ -26,13 +26,3 @@ class Skills extends Developer {
 ```
 
 <h3> Work Experiences <h3/>
-
-<samp>
-
-[<img align="left" width="100x" alt="Warpnet" src="https://i.imgur.com/q2L7jkf.png"/>](https://yngtech.repl.co/)
-
-**Systems Developer** \
-[**YNG**](https://yngtech.repl.co/) <!--• Full-time--> \
-Languages ​​and Technologies: `Python`, `TypeScript`, `HTML`, `CSS`\
-Featured projects: [Infinity](https://infinity.yngtech.repl.co/), [Website](https://yngtech.repl.co/)
-<samp/>
