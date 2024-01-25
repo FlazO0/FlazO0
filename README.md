@@ -1,8 +1,8 @@
 ```js
-import Developer from 'Flaz0';
+import Developer from 'flazo0';
 
 class AboutMe extends Developer {
-  age        = 16;
+  age        = 17;
   hacking    = true;
   work       = false;
   locality   = 'Brazil';
