@@ -19,7 +19,7 @@ class Skills extends Developer {
   hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
   languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Ruby', 'C#'];
   database       = ['SQL', 'MongoDB'];
-  software       = ['Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Canva];
+  software       = ['Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Canva'];
   hardware       = ['USBKill', 'Wi-Fi Pineapple', 'Rubber Ducky', 'DigiSpark', 'Raspberry Pi', 'Arduino', 'Alfa AWUS036NHA USB Wi-Fi adapter'];
 }
 
