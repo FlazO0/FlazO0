@@ -8,17 +8,18 @@ class AboutMe extends Developer {
   locality   = 'Brazil';
   english    = 'Fluent';
   name       = 'Flavio Luiz Lopes Arruda';
-  email      = 'FlazO0@proton.me';
+  email      = 'flazo0@proton.me';
   linkedin   = 'https://www.linkedin.com/in/FlazO0/';
 }
 
 class Skills extends Developer {
   systems        = ['Windows', 'Ubuntu', 'Kali', 'Arch'];
-  frameworks     = ['React', 'Angular', 'Bootstrap', 'Bulma', 'QT5'];
-  cloud          = ['Replit', 'AWS', 'Google Cloud', 'Hostinger', 'HostGator', 'DreamHost'];
+  frameworks     = ['React', 'Bootstrap', 'QT5'];
+  cloud          = ['Replit', 'AWS', 'Google Cloud', 'Hostinger'];
   hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
-  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Go', 'Ruby', 'C++', 'C#', 'SQL', 'MongoDB'];
-  software       = ['Node', 'Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Unity'];
+  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Ruby', 'C#'];
+  database       = ['SQL', 'MongoDB'];
+  software       = ['Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Canva];
   hardware       = ['USBKill', 'Wi-Fi Pineapple', 'Rubber Ducky', 'DigiSpark', 'Raspberry Pi', 'Arduino', 'Alfa AWUS036NHA USB Wi-Fi adapter'];
 }
 
