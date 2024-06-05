@@ -13,12 +13,12 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  systems        = ['Windows', 'Ubuntu', 'Kali', 'Arch'];
-  frameworks     = ['React', 'Bootstrap', 'QT5'];
-  cloud          = ['Replit', 'AWS', 'Google Cloud', 'Hostinger'];
+  systems        = ['Windows', 'Ubuntu', 'Kali', 'MacOS'];
+  frameworks     = ['Bootstrap', 'QT5'];
+  cloud          = ['Render', 'AWS', 'Replit'];
   hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
-  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Ruby', 'C#'];
-  database       = ['SQL', 'MongoDB'];
+  languages      = ['JavaScript', 'Python', 'HTML', 'EJS', 'CSS', 'TypeScript', 'Ruby', 'C++'];
+  database       = ['Firebase', 'MongoDB'];
   software       = ['Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Canva'];
   hardware       = ['USBKill', 'Wi-Fi Pineapple', 'Rubber Ducky', 'DigiSpark', 'Raspberry Pi', 'Arduino', 'Alfa AWUS036NHA USB Wi-Fi adapter'];
 }
