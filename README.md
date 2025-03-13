@@ -14,15 +14,13 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   systems        = ['Windows', 'Ubuntu', 'Kali', 'MacOS'];
-  frameworks     = ['Bootstrap', 'QT5'];
-  cloud          = ['Render', 'AWS', 'Replit'];
+  frameworks     = ['Bootstrap', 'tailwindcss', 'React', 'Angular'];
+  cloud          = ['Render', 'AWS', 'Hostinger'];
   hacking_tools  = "Damn, there are a lot of tools, I can't name them all here, unfortunately.";
-  languages      = ['JavaScript', 'Python', 'HTML', 'EJS', 'CSS', 'TypeScript', 'Ruby', 'C++'];
-  database       = ['Firebase', 'MongoDB'];
-  software       = ['Visual Studio Code', 'Unreal Engine', 'Adobe Photoshop', 'Canva'];
+  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'Ruby', 'C++'];
+  database       = ['Firebase', 'MongoDB', 'Cassandra', 'MySQL', 'SQLite'];
+  software       = ['Visual Studio Code', 'Unreal Engine 5', 'Adobe Photoshop', 'Canva' ];
   hardware       = ['USBKill', 'Wi-Fi Pineapple', 'Rubber Ducky', 'DigiSpark', 'Raspberry Pi', 'Arduino', 'Alfa AWUS036NHA USB Wi-Fi adapter'];
 }
 
 ```
-
-<h3> Work Experiences <h3/>
