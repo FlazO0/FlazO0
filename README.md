@@ -10,6 +10,7 @@ class AboutMe extends Developer {
   name       = 'Flavio Luiz';
   email      = 'flazo0@proton.me';
   linkedin   = 'https://www.linkedin.com/in/flazo0/';
+  website    = 'https://flazo0.xyz';
 }
 
 class Skills extends Developer {
