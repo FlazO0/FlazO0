@@ -8,7 +8,7 @@ class AboutMe extends Developer {
   locality   = 'Brazil';
   english    = 'Fluent';
   name       = 'Flavio Luiz';
-  email      = 'flazo0@proton.me';
+  email      = 'contact@flazo0.xyz';
   linkedin   = 'https://www.linkedin.com/in/flazo0/';
   website    = 'https://flazo0.xyz';
 }
